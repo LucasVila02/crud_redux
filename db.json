@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Juego",
+      "precio": "222",
+      "id": 3
+    },
+    {
+      "nombre": "Lucas",
+      "precio": "23",
+      "id": 4
+    },
+    {
+      "nombre": "Lucas",
+      "precio": 12,
+      "id": 5
+    }
+  ]
+}
